@@ -1,3 +1,3 @@
-### Todo react app
+### Todo react & tailwind app
 
-My first react app!
+My first app publish!
