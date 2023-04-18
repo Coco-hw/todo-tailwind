@@ -56,7 +56,7 @@ const TodoList = () => {
   // 컴포넌트를 렌더링합니다.
   return (
     <div className={styles.container}>
-      <h1 className="decoration-wavy text-xl mb-4 font-bold underline underline-offset-4 decoration-4 decoration-sky-500/30">
+      <h1 className="decoration-wavy text-xl mb-4 font-bold underline underline-offset-4 decoration-indigo-500/50">
         Todo List
       </h1>
       {/* 할 일을 입력받는 텍스트 필드입니다. */}
