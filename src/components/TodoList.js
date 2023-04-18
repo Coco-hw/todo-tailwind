@@ -91,7 +91,7 @@ const TodoList = () => {
           //   background-color: #fff;
           //   color: #0070f3;
           // }
-          className="rounded-full w-40 justify-self-end p-1 mb-4 ring ring-indigo-500 ring-offset-2 text-indigo-500 hover:bg-indigo-500 hover:text-white"
+          className="rounded-full w-30 justify-self-end p-1 mb-4 ring ring-indigo-500 ring-offset-2 text-indigo-500 hover:bg-indigo-500 hover:text-white"
           onClick={addTodo}
         >
           Add Todo
